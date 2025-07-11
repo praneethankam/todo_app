@@ -27,7 +27,7 @@ todo_App/
 ### 1. Clone the repository
 
 ```bash
-git  clone praneethankam/todo_app
+git clone https://github.com/praneethankam/todo_app.git
 cd todo_App
 ```
 
