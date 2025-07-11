@@ -3,6 +3,9 @@
 A full-stack Todo application built with the MERN stack (MongoDB, Express.js, React, Node.js).
 
 ---
+## 🔗 Live Demo
+
+[View Live](https://todo-app-xi-ten-77.vercel.app/)
 
 ## Project Structure
 
